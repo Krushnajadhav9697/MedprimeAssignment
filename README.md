@@ -67,11 +67,11 @@ File 'music.mp3' renamed to '5.mp3'
 Renaming completed.
 
 
-### Assignment 2: Zipping a Folder
+## Assignment 2: Zipping a Folder
 
 This is a Python script that zips a specified folder, including all of its subfolders and files. It creates a compressed `.zip` file of the folder and preserves the folder structure within the zip.
 
-## Requirements
+### Requirements
 
 - Python 3.x
 - `os` module (Standard Python Library)
@@ -107,7 +107,7 @@ Successfully created zip file: /path/to/your/folder.zip
 
 This program creates a 2x2 collage from four input images and saves the output in a specified format.
 
-## How to Run
+### How to Run
 1. Install the Pillow library:
    `pip install pillow`
 2. Run the program:
@@ -117,14 +117,14 @@ This program creates a 2x2 collage from four input images and saves the output i
      ```
 3. Follow the prompts to specify image paths and output format.
 
-## Input
+### Input
 - Four image file paths.
 - Desired output format (`jpg`, `png`, etc.).
 
-## Output
+### Output
 - A collage saved as `collage.<format>`.
 
-## Error Handling
+### Error Handling
 - Handles invalid paths and unsupported file formats gracefully.
 
 
