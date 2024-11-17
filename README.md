@@ -65,6 +65,7 @@ File 'report.pdf' renamed to '3.pdf'
 File 'notes.docx' renamed to '4.docx'
 File 'music.mp3' renamed to '5.mp3'
 Renaming completed.
+```
 
 
 ## Assignment 2: Zipping a Folder
@@ -101,7 +102,7 @@ This is a Python script that zips a specified folder, including all of its subfo
 Please enter the path to the folder: /path/to/your/folder
 Creating zip file...
 Successfully created zip file: /path/to/your/folder.zip
-
+```
 
 ## Assignment 3: Creating a Collage from 4 Images
 
