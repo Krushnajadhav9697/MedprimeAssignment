@@ -14,7 +14,6 @@ This repository contains a series of assignments completed for MedPrime Technolo
 - [Assignment 1: Renaming Files Sequentially](#assignment-1-renaming-files-sequentially)
 - [Assignment 2: Zipping a Folder](#assignment-2-zipping-a-folder)
 - [Assignment 3: Creating a Collage from 4 Images](#assignment-3-creating-a-collage-from-4-images)
-- [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
