@@ -108,13 +108,16 @@ Successfully created zip file: /path/to/your/folder.zip
 
 This program creates a 2x2 collage from four input images and saves the output in a specified format.
 
+### Requirements
+-Install the Pillow library:
+
 ### How to Run
 1. Install the Pillow library:
    `pip install pillow`
 2. Run the program:
     ```bash
 	 cd Assignment3
-     python main.py
+         python main.py
      ```
 3. Follow the prompts to specify image paths and output format.
 
