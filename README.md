@@ -121,9 +121,19 @@ This program creates a 2x2 collage from four input images and saves the output i
 ### Input
 - Four image file paths.
 - Desired output format (`jpg`, `png`, etc.).
+  ```
+  Please enter the path for Image 1: image1.jpg
+  Please enter the path for Image 2: image2.jpg
+  Please enter the path for Image 3: image3.jpg
+  Please enter the path for Image 4: image4.jpg
+  Please specify the output file format (e.g., jpg, png): jpg
+  ```
 
 ### Output
-- A collage saved as `collage.<format>`.
+```
+Collage saved successfully as 'collage.{given_format}' in {given_format} format.
+
+```
 
 ### Error Handling
 - Handles invalid paths and unsupported file formats gracefully.
